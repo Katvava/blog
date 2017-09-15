@@ -5,8 +5,8 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Yanzi</title>
- <link href="http://katvava.github.io/blog/atom.xml" rel="self"/>
- <link href="http://katvava.github.io/blog/"/>
+ <link href="https://katvava.github.io/blog/atom.xml" rel="self"/>
+ <link href="https://katvava.github.io/blog/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://katvava.github.io/blog/</id>
  <author>

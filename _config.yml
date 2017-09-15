@@ -2,7 +2,7 @@
 #permalink: pretty
 permalink: /:year/:month/:title/
 markdown: kramdown
-url: http://katvava.github.io/blog
+url: https://katvava.github.io/blog
 #baseurl: http://tiancao.me/blog
 author: Yanzi
 highlighter: rouge
