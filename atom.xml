@@ -4,14 +4,14 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Tian Cao</title>
- <link href="http://tonycao.github.io/blog/atom.xml" rel="self"/>
- <link href="http://tonycao.github.io/blog/"/>
+ <title>Yanzi</title>
+ <link href="http://katvava.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://katvava.github.io/blog/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://tonycao.github.io/blog/</id>
+ <id>http://katvava.github.io/blog/</id>
  <author>
-   <name>Tian Cao</name>
-   <email>tiancao@cs.unc.edu</email>
+   <name>Yanzi</name>
+   <email>yanzi@xxx</email>
  </author>
 
  {% for post in site.posts %}

@@ -2,9 +2,9 @@
 #permalink: pretty
 permalink: /:year/:month/:title/
 markdown: kramdown
-url: http://tiancao.me/blog
+url: http://katvava.github.io/blog
 #baseurl: http://tiancao.me/blog
-author: Tian Cao
+author: Yanzi
 highlighter: rouge
 exclude: ['Rakefile.rb', 'CNAME', 'README.markdown']
 
